@@ -745,7 +745,9 @@ video {
         height: 310px;
         display: block;
         padding-top: 5%;
+        margin-left: 10%;
     }
+
 
     .index-maps iframe {
         width: 100%;
@@ -1337,7 +1339,9 @@ video {
         margin-left: 12%;
     }
 
-
+   .index-maps {
+     margin-left: 10%;
+   }
 }
 
 @media (max-width:395px) {
